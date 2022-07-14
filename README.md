@@ -1,4 +1,4 @@
-# Projeto com React-Axios 🎓🎓
+# Projeto com React-Axios 🎓
 <img aling='center' alt= 'REACT' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 
 Nesse repositório contém um projeto react que consome dados dos usuários do Github através de sua API.
